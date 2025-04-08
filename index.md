@@ -1,6 +1,6 @@
-# Algo
-## Algo 2
-### Algo 3
-#### Algo 4
-##### Algo 5
-###### Algo 6
+# Title 1
+## Title 2
+### Title 3
+#### Title 4
+##### Title 5
+###### Title 6
